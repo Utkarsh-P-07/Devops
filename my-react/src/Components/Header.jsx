@@ -10,7 +10,6 @@ const Header = () => {
       <nav>
       <a href="#">hi</a>
       <a href="#">hi</a>
-      <a href="#">hi</a>
       </nav>
       </header>
     </div>
